@@ -1,10 +1,10 @@
 {
   "name": "mira-app",
   "version": "1.0.0",
-  "private": true,
   "scripts": {
-    "build": "npm --prefix client ci && CI=false npm --prefix client run build && npm --prefix server ci",
-    "start": "node server/index.js"
+    "build": "cd client && npm ci --legacy-peer-deps && CI=false npm run build",
+    "start": "node server/index.js",
+    "install-deps": "cd server && npm ci"
   },
   "engines": {
     "node": ">=20"
