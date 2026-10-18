@@ -1,0 +1,13 @@
+{
+  "appId": "com.mira.app",
+  "appName": "Mira",
+  "webDir": "build",
+  "bundledWebRuntime": false,
+  "server": {
+    "url": "https://seizing-erased-anyway.ngrok-free.dev",
+    "cleartext": false
+  },
+  "ios": {
+    "contentInset": "always"
+  }
+}

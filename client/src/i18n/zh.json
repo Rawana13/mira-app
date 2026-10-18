@@ -1,0 +1,155 @@
+{
+  "nav": {
+    "documents": "Docs",
+    "visits": "就诊",
+    "medications": "Meds",
+    "timeline": "时间线",
+    "records": "Records"
+  },
+  "onboarding": {
+    "tagline": "您在美国的医疗助手。",
+    "continue": "继续",
+    "chooseLanguage": "选择您的语言",
+    "languageSubtitle": "Mira 将用您的语言回复",
+    "signupTitle": "创建您的账户",
+    "signupSubtitle": "您的健康记录将安全保存在此设备上。",
+    "namePlaceholder": "您的姓名",
+    "emailPlaceholder": "您的电子邮件",
+    "getStarted": "开始使用",
+    "privacyNote": "您的信息保存在您的设备上。我们从不共享您的数据。"
+  },
+  "documents": {
+    "title": "医疗文件",
+    "subtitle": "上传文件获取通俗易懂的解释",
+    "uploadTitle": "上传您的文件",
+    "uploadSubtitle": "拖放文件，或点击选择",
+    "supportedTypes": "支持 PDF 和图片（JPG、PNG）",
+    "privacyNote": "您的文件经过安全处理，会话结束后不会被存储。",
+    "reading": "正在读取您的文件...",
+    "analyzing": "正在为您解读内容...",
+    "tabs": {
+      "summary": "摘要",
+      "actions": "待办事项",
+      "terms": "术语解释",
+      "followUp": "后续跟进"
+    },
+    "urgentBanner": "重要 — 需要立即处理",
+    "saveToTimeline": "保存到时间线",
+    "savedSuccess": "已保存到您的时间线",
+    "followUpNeeded": "需要预约复诊",
+    "noFollowUp": "无需复诊",
+    "uploadAnother": "上传另一份文件",
+    "urgency": {
+      "urgent": "紧急",
+      "soon": "尽快",
+      "convenient": "方便时处理"
+    },
+    "analyzeButton": "分析文件"
+  },
+  "visits": {
+    "title": "就诊摘要",
+    "beforeVisit": "就诊前",
+    "afterVisit": "就诊后",
+    "beforePlaceholder": "这是什么类型的预约？您有哪些症状或顾虑？",
+    "afterPlaceholder": "粘贴或输入就诊记录...",
+    "generate": "生成摘要",
+    "generating": "正在准备您的摘要...",
+    "saveToTimeline": "保存到时间线",
+    "savedSuccess": "已保存到您的时间线",
+    "sections": {
+      "summary": "就诊情况",
+      "medications": "处方药物",
+      "instructions": "后续指导",
+      "questions": "下次就诊的问题",
+      "whatToExpect": "预期情况",
+      "questionsToAsk": "需要询问的问题",
+      "whatToBring": "需要携带的材料",
+      "whatDoctorWillAsk": "医生可能会问的问题"
+    },
+    "subtitle": "录制或描述您的就诊"
+  },
+  "medications": {
+    "title": "药物指南",
+    "searchPlaceholder": "输入药物名称...",
+    "orUpload": "或上传处方照片",
+    "search": "查询药物",
+    "searching": "正在查询您的药物信息...",
+    "disclaimer": "Mira 提供一般性指导。如需针对您具体情况的建议，请咨询药剂师或医生。",
+    "sections": {
+      "whatFor": "用途说明",
+      "howToTake": "服用方法和时间",
+      "avoid": "注意事项",
+      "sideEffects": "副作用",
+      "commonSideEffects": "常见/轻微",
+      "callDoctor": "如有以下情况请立即就医",
+      "missedDose": "漏服处理",
+      "storage": "储存方法"
+    },
+    "share": "分享指南",
+    "subtitle": "搜索或扫描处方标签"
+  },
+  "timeline": {
+    "title": "健康时间线",
+    "subtitle": "您的完整健康历史",
+    "filters": {
+      "all": "全部",
+      "visits": "就诊",
+      "documents": "文件",
+      "medications": "药物",
+      "labs": "化验"
+    },
+    "searchPlaceholder": "搜索您的记录...",
+    "emptyTitle": "您的时间线是空的",
+    "emptySubtitle": "您保存的文件、就诊摘要和药物信息将显示在这里，共同构成您的健康档案。",
+    "types": {
+      "visit": "就诊",
+      "document": "文件",
+      "medication": "药物",
+      "lab": "化验结果"
+    },
+    "expand": "显示详情",
+    "collapse": "隐藏详情",
+    "delete": "删除",
+    "deleteConfirm": "删除此条记录？"
+  },
+  "records": {
+    "title": "带回家乡的健康档案",
+    "subtitle": "为您的家庭医生导出PDF",
+    "prepareButton": "准备我的档案",
+    "generating": "正在整理您的健康记录...",
+    "preview": {
+      "title": "您的档案将包含：",
+      "entries": "{{count}} 条健康记录",
+      "dateRange": "{{start}} 至 {{end}}",
+      "noEntries": "暂无保存的记录"
+    },
+    "languageLabel": "PDF 输出语言",
+    "download": "下载 PDF",
+    "share": "分享",
+    "generatedBy": "由 Mira 生成 — 国际学生医疗助手",
+    "emptyState": "请先将文件、就诊记录和药物保存到时间线，然后在此生成档案 PDF。"
+  },
+  "common": {
+    "loading": "加载中...",
+    "error": "出现错误，请重试。",
+    "retry": "重试",
+    "back": "返回",
+    "save": "保存",
+    "cancel": "取消",
+    "done": "完成",
+    "yes": "是",
+    "no": "否",
+    "settings": "设置",
+    "language": "语言",
+    "appName": "Mira"
+  },
+  "settings": {
+    "title": "设置",
+    "language": "语言",
+    "languageSubtitle": "更改应用语言",
+    "about": "关于 Mira",
+    "aboutText": "Mira 是帮助在美国留学生了解医疗体系的健康助手。",
+    "clearData": "清除所有数据",
+    "clearDataConfirm": "这将删除您所有保存的健康记录，且无法撤销。"
+  }
+}

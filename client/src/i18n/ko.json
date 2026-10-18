@@ -1,0 +1,155 @@
+{
+  "nav": {
+    "documents": "Docs",
+    "visits": "진료",
+    "medications": "Meds",
+    "timeline": "기록",
+    "records": "Records"
+  },
+  "onboarding": {
+    "tagline": "미국에서의 당신의 건강 도우미.",
+    "continue": "계속",
+    "chooseLanguage": "언어를 선택하세요",
+    "languageSubtitle": "Mira가 선택하신 언어로 답변합니다",
+    "signupTitle": "계정 만들기",
+    "signupSubtitle": "건강 기록이 이 기기에 안전하게 저장됩니다.",
+    "namePlaceholder": "이름",
+    "emailPlaceholder": "이메일 주소",
+    "getStarted": "시작하기",
+    "privacyNote": "귀하의 정보는 기기에만 저장됩니다. 데이터를 절대 공유하지 않습니다."
+  },
+  "documents": {
+    "title": "의료 서류",
+    "subtitle": "쉬운 설명을 위해 서류를 업로드하세요",
+    "uploadTitle": "서류를 업로드하세요",
+    "uploadSubtitle": "드래그 앤 드롭하거나 탭하여 선택",
+    "supportedTypes": "PDF 및 이미지 (JPG, PNG) 지원",
+    "privacyNote": "귀하의 서류는 안전하게 처리되며 세션 종료 후 저장되지 않습니다.",
+    "reading": "서류를 읽는 중...",
+    "analyzing": "내용을 분석하는 중...",
+    "tabs": {
+      "summary": "요약",
+      "actions": "할 일 목록",
+      "terms": "용어 설명",
+      "followUp": "후속 조치"
+    },
+    "urgentBanner": "중요 — 즉각적인 조치 필요",
+    "saveToTimeline": "기록에 저장",
+    "savedSuccess": "기록에 저장되었습니다",
+    "followUpNeeded": "후속 진료 예약 필요",
+    "noFollowUp": "후속 진료 불필요",
+    "uploadAnother": "다른 서류 업로드",
+    "urgency": {
+      "urgent": "긴급",
+      "soon": "빠른 시일 내",
+      "convenient": "여유 있을 때"
+    },
+    "analyzeButton": "문서 분석"
+  },
+  "visits": {
+    "title": "진료 요약",
+    "beforeVisit": "진료 전",
+    "afterVisit": "진료 후",
+    "beforePlaceholder": "어떤 종류의 진료인가요? 증상이나 우려 사항이 있나요?",
+    "afterPlaceholder": "진료 메모를 붙여넣거나 입력하세요...",
+    "generate": "요약 생성",
+    "generating": "요약을 준비하는 중...",
+    "saveToTimeline": "기록에 저장",
+    "savedSuccess": "기록에 저장되었습니다",
+    "sections": {
+      "summary": "진료 내용",
+      "medications": "처방 약물",
+      "instructions": "후속 지침",
+      "questions": "다음 진료를 위한 질문",
+      "whatToExpect": "예상 사항",
+      "questionsToAsk": "물어볼 질문",
+      "whatToBring": "준비물",
+      "whatDoctorWillAsk": "의사가 물어볼 것들"
+    },
+    "subtitle": "진료를 녹음하거나 설명하세요"
+  },
+  "medications": {
+    "title": "약물 안내",
+    "searchPlaceholder": "약물 이름을 입력하세요...",
+    "orUpload": "또는 처방전 사진 업로드",
+    "search": "약물 조회",
+    "searching": "약물 정보를 찾는 중...",
+    "disclaimer": "Mira는 일반적인 안내를 제공합니다. 귀하의 상황에 맞는 조언은 약사 또는 의사에게 문의하세요.",
+    "sections": {
+      "whatFor": "용도",
+      "howToTake": "복용 방법과 시간",
+      "avoid": "주의 사항",
+      "sideEffects": "부작용",
+      "commonSideEffects": "일반적 / 경미한",
+      "callDoctor": "즉시 의사에게 연락해야 할 경우",
+      "missedDose": "복용을 잊었을 때",
+      "storage": "보관 방법"
+    },
+    "share": "안내 공유",
+    "subtitle": "처방전을 검색하거나 스캔하세요"
+  },
+  "timeline": {
+    "title": "건강 기록",
+    "subtitle": "전체 건강 기록",
+    "filters": {
+      "all": "전체",
+      "visits": "진료",
+      "documents": "서류",
+      "medications": "약물",
+      "labs": "검사"
+    },
+    "searchPlaceholder": "기록 검색...",
+    "emptyTitle": "기록이 없습니다",
+    "emptySubtitle": "저장한 서류, 진료 요약, 약물 정보가 여기에 표시됩니다.",
+    "types": {
+      "visit": "진료",
+      "document": "서류",
+      "medication": "약물",
+      "lab": "검사 결과"
+    },
+    "expand": "자세히 보기",
+    "collapse": "접기",
+    "delete": "삭제",
+    "deleteConfirm": "이 항목을 삭제하시겠습니까?"
+  },
+  "records": {
+    "title": "고국으로 기록 가져가기",
+    "subtitle": "집 의사를 위한 PDF 내보내기",
+    "prepareButton": "내 기록 준비하기",
+    "generating": "건강 기록을 정리하는 중...",
+    "preview": {
+      "title": "기록에 포함될 내용:",
+      "entries": "{{count}}개의 건강 기록",
+      "dateRange": "{{start}}부터 {{end}}까지",
+      "noEntries": "저장된 기록 없음"
+    },
+    "languageLabel": "PDF 출력 언어",
+    "download": "PDF 다운로드",
+    "share": "공유",
+    "generatedBy": "Mira 생성 — 유학생을 위한 건강 도우미",
+    "emptyState": "먼저 서류, 진료 기록, 약물을 기록에 저장한 후 여기서 PDF를 생성하세요."
+  },
+  "common": {
+    "loading": "로딩 중...",
+    "error": "오류가 발생했습니다. 다시 시도해주세요.",
+    "retry": "다시 시도",
+    "back": "뒤로",
+    "save": "저장",
+    "cancel": "취소",
+    "done": "완료",
+    "yes": "예",
+    "no": "아니오",
+    "settings": "설정",
+    "language": "언어",
+    "appName": "Mira"
+  },
+  "settings": {
+    "title": "설정",
+    "language": "언어",
+    "languageSubtitle": "앱 언어 변경",
+    "about": "Mira 소개",
+    "aboutText": "Mira는 미국 의료 시스템을 이해하는 데 도움을 주는 유학생을 위한 건강 도우미입니다.",
+    "clearData": "모든 데이터 삭제",
+    "clearDataConfirm": "저장된 모든 건강 기록이 삭제됩니다. 이 작업은 취소할 수 없습니다."
+  }
+}

@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Build output
+client/build/
+
+# Environment variables — never commit real keys
+.env
+server/.env
+client/.env
+
+# macOS
+.DS_Store
+
+# Capacitor
+client/ios/
+client/android/
+
+# Logs
+*.log

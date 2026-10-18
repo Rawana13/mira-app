@@ -1,0 +1,155 @@
+{
+  "nav": {
+    "documents": "Docs",
+    "visits": "الزيارات",
+    "medications": "Meds",
+    "timeline": "السجل",
+    "records": "Records"
+  },
+  "onboarding": {
+    "tagline": "رفيقك الصحي في الولايات المتحدة.",
+    "continue": "متابعة",
+    "chooseLanguage": "اختر لغتك",
+    "languageSubtitle": "ستردّ ميرا بلغتك",
+    "signupTitle": "أنشئ حسابك",
+    "signupSubtitle": "سيتم حفظ سجلاتك الصحية بأمان على هذا الجهاز.",
+    "namePlaceholder": "اسمك",
+    "emailPlaceholder": "بريدك الإلكتروني",
+    "getStarted": "ابدأ الآن",
+    "privacyNote": "معلوماتك تبقى على جهازك. لا نشارك بياناتك أبداً."
+  },
+  "documents": {
+    "title": "المستندات الطبية",
+    "subtitle": "ارفع مستنداً للحصول على شرح بلغة بسيطة",
+    "uploadTitle": "ارفع مستندك",
+    "uploadSubtitle": "اسحب وأفلت، أو انقر للاختيار",
+    "supportedTypes": "يدعم PDF والصور (JPG، PNG)",
+    "privacyNote": "تتم معالجة مستنداتك بأمان ولا تُخزَّن بعد انتهاء جلستك.",
+    "reading": "جارٍ قراءة مستندك...",
+    "analyzing": "جارٍ فهم ما يعنيه هذا بالنسبة لك...",
+    "tabs": {
+      "summary": "ملخص",
+      "actions": "الإجراءات المطلوبة",
+      "terms": "شرح المصطلحات",
+      "followUp": "المتابعة"
+    },
+    "urgentBanner": "مهم — يلزم اتخاذ إجراء فوري",
+    "saveToTimeline": "حفظ في السجل",
+    "savedSuccess": "تم الحفظ في سجلك",
+    "followUpNeeded": "يلزم موعد متابعة",
+    "noFollowUp": "لا حاجة لمتابعة",
+    "uploadAnother": "رفع مستند آخر",
+    "urgency": {
+      "urgent": "عاجل",
+      "soon": "قريباً",
+      "convenient": "عند الملاءمة"
+    },
+    "analyzeButton": "تحليل المستند"
+  },
+  "visits": {
+    "title": "ملخص الزيارة",
+    "beforeVisit": "قبل الزيارة",
+    "afterVisit": "بعد الزيارة",
+    "beforePlaceholder": "ما نوع هذا الموعد؟ ما هي أعراضك أو مخاوفك؟",
+    "afterPlaceholder": "الصق أو اكتب ملاحظاتك من الموعد...",
+    "generate": "إنشاء ملخص",
+    "generating": "جارٍ إعداد ملخصك...",
+    "saveToTimeline": "حفظ في السجل",
+    "savedSuccess": "تم الحفظ في سجلك",
+    "sections": {
+      "summary": "ما حدث",
+      "medications": "الأدوية",
+      "instructions": "تعليمات المتابعة",
+      "questions": "أسئلة للزيارة القادمة",
+      "whatToExpect": "ماذا تتوقع",
+      "questionsToAsk": "أسئلة تطرحها على الطبيب",
+      "whatToBring": "ما تحتاج إحضاره",
+      "whatDoctorWillAsk": "ما قد يسألك الطبيب"
+    },
+    "subtitle": "سجّل موعدك الطبي أو صِفه"
+  },
+  "medications": {
+    "title": "دليل الأدوية",
+    "searchPlaceholder": "أدخل اسم الدواء...",
+    "orUpload": "أو ارفع صورة الوصفة الطبية",
+    "search": "البحث عن الدواء",
+    "searching": "جارٍ البحث عن معلومات دوائك...",
+    "disclaimer": "تقدم ميرا إرشادات عامة. استشر الصيدلاني أو طبيبك للحصول على نصيحة تناسب وضعك.",
+    "sections": {
+      "whatFor": "ما هو هذا الدواء",
+      "howToTake": "كيفية وتوقيت الأخذ",
+      "avoid": "ما يجب تجنبه",
+      "sideEffects": "الآثار الجانبية",
+      "commonSideEffects": "شائعة / خفيفة",
+      "callDoctor": "اتصل بطبيبك فوراً إذا",
+      "missedDose": "إذا نسيت جرعة",
+      "storage": "طريقة التخزين"
+    },
+    "share": "مشاركة الدليل",
+    "subtitle": "ابحث أو امسح وصفة طبية"
+  },
+  "timeline": {
+    "title": "السجل الصحي",
+    "subtitle": "سجلك الصحي الكامل",
+    "filters": {
+      "all": "الكل",
+      "visits": "الزيارات",
+      "documents": "المستندات",
+      "medications": "الأدوية",
+      "labs": "التحاليل"
+    },
+    "searchPlaceholder": "ابحث في سجلاتك...",
+    "emptyTitle": "سجلك فارغ",
+    "emptySubtitle": "ستظهر هنا المستندات وملخصات الزيارات والأدوية التي تحفظها.",
+    "types": {
+      "visit": "زيارة",
+      "document": "مستند",
+      "medication": "دواء",
+      "lab": "نتيجة تحليل"
+    },
+    "expand": "عرض التفاصيل",
+    "collapse": "إخفاء التفاصيل",
+    "delete": "حذف",
+    "deleteConfirm": "حذف هذا السجل؟"
+  },
+  "records": {
+    "title": "خذ سجلاتك معك للوطن",
+    "subtitle": "تصدير ملف PDF لطبيبك في بلدك",
+    "prepareButton": "إعداد سجلاتي",
+    "generating": "جارٍ تجميع سجلاتك الصحية...",
+    "preview": {
+      "title": "ستتضمن سجلاتك:",
+      "entries": "{{count}} سجل صحي",
+      "dateRange": "من {{start}} إلى {{end}}",
+      "noEntries": "لا توجد سجلات محفوظة"
+    },
+    "languageLabel": "لغة ملف PDF",
+    "download": "تحميل PDF",
+    "share": "مشاركة",
+    "generatedBy": "صُنع بواسطة ميرا — الرفيق الصحي للطلاب الدوليين",
+    "emptyState": "احفظ المستندات والزيارات والأدوية في سجلك أولاً، ثم أنشئ ملف PDF هنا."
+  },
+  "common": {
+    "loading": "جارٍ التحميل...",
+    "error": "حدث خطأ ما. يرجى المحاولة مرة أخرى.",
+    "retry": "إعادة المحاولة",
+    "back": "رجوع",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "done": "تم",
+    "yes": "نعم",
+    "no": "لا",
+    "settings": "الإعدادات",
+    "language": "اللغة",
+    "appName": "ميرا"
+  },
+  "settings": {
+    "title": "الإعدادات",
+    "language": "اللغة",
+    "languageSubtitle": "تغيير لغة التطبيق",
+    "about": "عن ميرا",
+    "aboutText": "ميرا هي رفيق صحي للطلاب الدوليين في منظومة الرعاية الصحية الأمريكية.",
+    "clearData": "مسح جميع البيانات",
+    "clearDataConfirm": "سيتم حذف جميع سجلاتك الصحية المحفوظة. لا يمكن التراجع عن هذا."
+  }
+}
