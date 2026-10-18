@@ -5,7 +5,6 @@
     "buildCommand": "npm run build && npm run install-deps"
   },
   "deploy": {
-    "startCommand": "node server/index.js",
-    "healthcheckPath": "/health"
+    "startCommand": "node server/index.js"
   }
 }
