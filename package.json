@@ -1,0 +1,12 @@
+{
+  "name": "mira-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "npm --prefix client ci && CI=false npm --prefix client run build && npm --prefix server ci",
+    "start": "node server/index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
