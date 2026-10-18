@@ -1,0 +1,13 @@
+[phases.install]
+cmds = [
+  "cd client && npm ci --legacy-peer-deps",
+  "cd server && npm ci"
+]
+
+[phases.build]
+cmds = [
+  "cd client && CI=false npm run build"
+]
+
+[start]
+cmd = "node server/index.js"
